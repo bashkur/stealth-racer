@@ -30,6 +30,11 @@ public class TimerScript : MonoBehaviour
         text.text = minutes.ToString().PadLeft(2,'0') + ":" + seconds.ToString().PadLeft(2,'0') + ":" + msec.ToString().PadLeft(3,'0');
     }
 
+    public void AddTimePenalty(float penaltySeconds)
+    {
+        timeElapsed += penaltySeconds;
+    }
+
     public void EndGame()
     {
         isStopped = true;
