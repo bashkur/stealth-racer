@@ -30,6 +30,7 @@ public class CheckpointScript : MonoBehaviour
                 if (isFinalCheckpoint)
                 {
                     print("Game won!");
+                    TimerScript.timerRef.EndGame();
                 }
             }
         }
