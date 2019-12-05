@@ -20,7 +20,6 @@ public class LightScript : MonoBehaviour
         timeElapsed += Time.deltaTime;
         if (timeElapsed >= 5)
         {
-            print("Light state alternating!");
             timeElapsed -= 5;
             if (currentLightState == LightState.ON)
                 ChangeLightState(LightState.OFF);
@@ -42,9 +41,5 @@ public class LightScript : MonoBehaviour
             transform.Find("SpotLight").gameObject.SetActive(true);
             transform.Find("HitBox").gameObject.SetActive(true);
         }
-    }
-    private void OnTriggerEnter(Collider other)
-    {
-        print("Busted!");
     }
 }
