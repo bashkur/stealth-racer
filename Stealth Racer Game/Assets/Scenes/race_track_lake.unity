@@ -15,7 +15,7 @@ RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
   m_Fog: 1
-  m_FogColor: {r: 0.08889506, g: 0.08499465, b: 0.09433961, a: 1}
+  m_FogColor: {r: 0.065570466, g: 0.06510322, b: 0.066037714, a: 1}
   m_FogMode: 1
   m_FogDensity: 0.05
   m_LinearFogStart: 0
@@ -919,8 +919,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 9
   m_Type: 1
-  m_Color: {r: 0.11372549, g: 0.11372549, b: 0.11372549, a: 1}
-  m_Intensity: 0.28
+  m_Color: {r: 0.27549842, g: 0.2888684, b: 0.38679248, a: 1}
+  m_Intensity: 0.3
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2982,8 +2982,8 @@ Light:
   m_Enabled: 1
   serializedVersion: 9
   m_Type: 1
-  m_Color: {r: 0.735849, g: 0.7234964, b: 0.6976682, a: 1}
-  m_Intensity: 1
+  m_Color: {r: 0.27549842, g: 0.2888684, b: 0.38679248, a: 1}
+  m_Intensity: 0.4
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
