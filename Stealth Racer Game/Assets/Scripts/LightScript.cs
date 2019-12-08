@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LightScript : MonoBehaviour
 {
-    public enum LightState { OFF,ON,CHARGING} //0 is inactive, 1 is active, 2 is charging (partially on so the player knows its about to activate)
+    public enum LightState { OFF, ON, CHARGING } //0 is inactive, 1 is active, 2 is charging (partially on so the player knows its about to activate)
     public LightState currentLightState = LightState.OFF;
     public float timeElapsed = 0; //set to non-0 to start the light with an offset in the cycle
     public float onTime = 5; //seconds the light spends on per cycle
