@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Car
+  - LightManager
+  - Chosen
+  - OFF
+  - ON
+  - CHARGING
   layers:
   - Default
   - TransparentFX

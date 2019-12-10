@@ -1,0 +1,27 @@
+newmtl asphalt
+map_Kd D:/School/SSU/2019Fall/ETGG3801 Realtime1/Stealth Racer/stealth-racer/Stealth Racer Game/Assets/Textures/asphalt.png
+bump D:/School/SSU/2019Fall/ETGG3801 Realtime1/Stealth Racer/stealth-racer/Stealth Racer Game/Assets/Textures/asphalt-n.png
+Kd 1 1 1
+d 1
+
+newmtl asphalt-dirt
+map_Kd D:/School/SSU/2019Fall/ETGG3801 Realtime1/Stealth Racer/stealth-racer/Stealth Racer Game/Assets/Textures/asphalt-dirt.png
+Kd 1 1 1
+d 1
+
+newmtl concrete-floor
+map_Kd D:/School/SSU/2019Fall/ETGG3801 Realtime1/Stealth Racer/stealth-racer/Stealth Racer Game/Assets/Textures/concrete-floor.png
+bump D:/School/SSU/2019Fall/ETGG3801 Realtime1/Stealth Racer/stealth-racer/Stealth Racer Game/Assets/Textures/concrete-floor-n.png
+Kd 1 1 1
+d 1
+
+newmtl stripes
+map_Kd D:/School/SSU/2019Fall/ETGG3801 Realtime1/Stealth Racer/stealth-racer/Stealth Racer Game/Assets/Textures/stripes.png
+Kd 1 1 1
+d 1
+
+newmtl dirt
+map_Kd D:/School/SSU/2019Fall/ETGG3801 Realtime1/Stealth Racer/stealth-racer/Stealth Racer Game/Assets/Textures/dirt.png
+Kd 1 1 1
+d 1
+

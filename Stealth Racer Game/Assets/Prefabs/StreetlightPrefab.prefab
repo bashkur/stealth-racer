@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 1069864938590288900}
   - component: {fileID: 1069864938586081988}
   - component: {fileID: 4568071678972398619}
+  - component: {fileID: 580967181157503851}
   m_Layer: 0
   m_Name: StreetlightPrefab
-  m_TagString: Untagged
+  m_TagString: OFF
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -102,7 +103,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1069864938592477892}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0079088c3b8ba8e459fd8aa9ec9d3979, type: 3}
   m_Name: 
@@ -112,6 +113,25 @@ MonoBehaviour:
   onTime: 5
   offTime: 5
   chargingTime: 1
+--- !u!114 &580967181157503851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1069864938592477892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2765cab3b1f2b74aafa29a2ed867111, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  t_charging: 2
+  t_cooldown: 5
+  t_on: 5
+  t_off: 5
+  t_elapsed: 0
+  is_charging: 0
+  is_inCooldown: 0
 --- !u!1 &1069864939543500022
 GameObject:
   m_ObjectHideFlags: 0

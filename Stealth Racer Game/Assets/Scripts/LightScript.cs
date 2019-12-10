@@ -10,6 +10,7 @@ public class LightScript : MonoBehaviour
     public float onTime = 5; //seconds the light spends on per cycle
     public float offTime = 5; //seconds the light spends off per cycle
     public float chargingTime = 1; //seconds the light is visible charging before becoming active
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -57,11 +58,12 @@ public class LightScript : MonoBehaviour
         
     }
 
-    void ChangeLightState(LightState newState)
+    public void ChangeLightState(LightState newState)
     {
         currentLightState = newState;
         if (currentLightState == LightState.OFF) //light and hitbox are inactive
         {
+            gameObject.tag = "OFF";
             transform.Find("SpotLight").gameObject.SetActive(false);
             transform.Find("HitBox").gameObject.SetActive(false);
         }
@@ -77,5 +79,10 @@ public class LightScript : MonoBehaviour
             transform.Find("SpotLight").GetComponent<Light>().intensity = 25;
             transform.Find("HitBox").gameObject.SetActive(true);
         }
+    }
+
+    public void TurnOn()
+    {
+
     }
 }

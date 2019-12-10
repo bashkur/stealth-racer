@@ -19,21 +19,24 @@ public class MusicManager : MonoBehaviour
 
     //how much time (in seconds) has passed since the song started
     public float dspSongTime;
-    public float bpm;
+    public float bpm;   //120
 
     //The offset to the first beat of the song in seconds
     public float firstBeatOffset;
 
-    public float beatsPerLoop;
+    public float beatsPerLoop;  //36
     public int completedLoops = 0;
     public float loopPositionInBeats;
     //Current relative pos of the song within the loop (0..1)
     public float loopPositionInAnalog;
 
-    // Start is called before the first frame update
+    // REFERENCES
+    LightManager lightManager;
+
+
     void Start()
     {
-        
+        lightManager = GameObject.FindWithTag("LightManager").GetComponent<LightManager>();
 
         audioSource = GetComponent<AudioSource>();
         secPerBeat = 60f / bpm;
@@ -62,7 +65,11 @@ public class MusicManager : MonoBehaviour
         // songPositionInBeats % beat interval
         if (Mathf.FloorToInt(songPositionInBeats) % 4 == 0)
         {
-             
+            //int numToSwitch = 0;
+            //while(numToSwitch < 50)
+            //{
+            //    lightManager.FlipLights();
+            //}
         }
     }
 }

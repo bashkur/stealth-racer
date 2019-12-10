@@ -144,6 +144,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -306,6 +311,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (58)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -392,6 +402,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -465,6 +480,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -545,6 +565,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (95)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -752,6 +777,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -1124,6 +1154,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1292,6 +1327,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1365,6 +1405,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -1440,6 +1485,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1513,6 +1563,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -1606,7 +1661,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 42e54de5a31ff784caf1800f27145521, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.055
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1702,7 +1757,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: feaa61c2fa661f441a4a1c45696222ae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lightPost: {fileID: 0}
+  lightPost: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+    type: 3}
   audioSource: {fileID: 149246271}
   songPosition: 0
   songPositionInBeats: 0
@@ -1739,6 +1795,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -2087,6 +2148,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (109)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2355,6 +2421,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2589,6 +2660,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (100)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -2828,6 +2904,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (97)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2984,6 +3065,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3081,7 +3167,7 @@ Transform:
   m_Children:
   - {fileID: 428566103}
   - {fileID: 1078230856}
-  - {fileID: 653944309}
+  - {fileID: 654081914}
   - {fileID: 909163992}
   - {fileID: 1304479086}
   - {fileID: 1478365726}
@@ -3186,6 +3272,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3260,6 +3351,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3333,6 +3429,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -4215,6 +4316,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4288,6 +4394,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -4792,6 +4903,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4865,6 +4981,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -4945,6 +5066,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -5281,6 +5407,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (72)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5559,6 +5690,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (86)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5638,6 +5774,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -6177,6 +6318,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6250,6 +6396,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -6331,6 +6482,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6404,6 +6560,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -6479,6 +6640,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6552,6 +6718,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (108)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -6632,6 +6803,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -7027,6 +7203,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7100,6 +7281,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -7181,6 +7367,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7260,6 +7451,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -7429,85 +7625,597 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 773280244}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &653944308
-PrefabInstance:
+--- !u!33 &650657616
+MeshFilter:
   m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 277239963}
-    m_Modifications:
-    - target: {fileID: 400012, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.123
-      objectReference: {fileID: 0}
-    - target: {fileID: 400012, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.565007
-      objectReference: {fileID: 0}
-    - target: {fileID: 400012, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.8011827
-      objectReference: {fileID: 0}
-    - target: {fileID: 400012, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.12145845
-      objectReference: {fileID: 0}
-    - target: {fileID: 400012, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.633725
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -109.46355
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -9.44
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 136.87062
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 50
-      objectReference: {fileID: 0}
-    - target: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 110
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
---- !u!4 &653944309 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 400014, guid: 853554035d67ed8458014b199fd7d9d9,
-    type: 3}
-  m_PrefabInstance: {fileID: 653944308}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041936}
+  m_Mesh: {fileID: 4300008, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
+--- !u!33 &650657618
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041938}
+  m_Mesh: {fileID: 4300010, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
+--- !u!33 &650657620
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041940}
+  m_Mesh: {fileID: 4300006, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
+--- !u!33 &650657622
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041942}
+  m_Mesh: {fileID: 4300000, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
+--- !u!33 &650657624
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041944}
+  m_Mesh: {fileID: 4300004, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
+--- !u!33 &650657628
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041948}
+  m_Mesh: {fileID: 4300012, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
+--- !u!33 &650657630
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041950}
+  m_Mesh: {fileID: 4300002, guid: 853554035d67ed8458014b199fd7d9d9, type: 3}
+--- !u!23 &651787664
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041936}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a2c849fd9cc9a6a40b82ab7835966629, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &651787666
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041938}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a2c849fd9cc9a6a40b82ab7835966629, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &651787668
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041940}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a2c849fd9cc9a6a40b82ab7835966629, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &651787670
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041942}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 669bf11319234864085e7b9b5678fba6, type: 2}
+  - {fileID: 2100000, guid: 75bb12a2ff3cdca4c8cbbea8f725e301, type: 2}
+  - {fileID: 2100000, guid: a2c849fd9cc9a6a40b82ab7835966629, type: 2}
+  - {fileID: 2100000, guid: 0e3c60e3eeda4434dae44659dd0e7698, type: 2}
+  - {fileID: 2100000, guid: bb9cd8c80ba2bfa4ea07b6d954833f7d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &651787672
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041944}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 7b7f6a2af2ed23145b22c6243d2c4a59, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &651787676
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041948}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a2c849fd9cc9a6a40b82ab7835966629, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!23 &651787678
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041950}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a2c849fd9cc9a6a40b82ab7835966629, type: 2}
+  - {fileID: 2100000, guid: 7b7f6a2af2ed23145b22c6243d2c4a59, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!1 &654041936
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654081904}
+  - component: {fileID: 650657616}
+  - component: {fileID: 651787664}
+  m_Layer: 0
+  m_Name: Box03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &654041938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654081906}
+  - component: {fileID: 650657618}
+  - component: {fileID: 651787666}
+  m_Layer: 0
+  m_Name: Box04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &654041940
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654081908}
+  - component: {fileID: 650657620}
+  - component: {fileID: 651787668}
+  m_Layer: 0
+  m_Name: Box01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &654041942
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654081910}
+  - component: {fileID: 650657622}
+  - component: {fileID: 651787670}
+  - component: {fileID: 1532577932}
+  m_Layer: 0
+  m_Name: Box02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &654041944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654081912}
+  - component: {fileID: 650657624}
+  - component: {fileID: 651787672}
+  m_Layer: 0
+  m_Name: bridgeTop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &654041946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654081914}
+  - component: {fileID: 1379882160}
+  m_Layer: 0
+  m_Name: race-track
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &654041948
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654081916}
+  - component: {fileID: 650657628}
+  - component: {fileID: 651787676}
+  m_Layer: 0
+  m_Name: Box05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &654041950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654081918}
+  - component: {fileID: 650657630}
+  - component: {fileID: 651787678}
+  - component: {fileID: 1551644212}
+  m_Layer: 0
+  m_Name: bridgeBottom
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &654081904
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041936}
+  m_LocalRotation: {x: -0.7069635, y: 0.014236876, z: 0.014236876, w: 0.7069635}
+  m_LocalPosition: {x: 1.3506786, y: 0.0065834643, z: -1.2262435}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 654081914}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &654081906
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041938}
+  m_LocalRotation: {x: -0.43126753, y: 0.5603644, z: 0.5603644, w: 0.43126753}
+  m_LocalPosition: {x: 1.4083582, y: 0.0063415337, z: 1.1410471}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 654081914}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &654081908
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041940}
+  m_LocalRotation: {x: -0.6517719, y: 0.27421424, z: 0.27421424, w: 0.6517719}
+  m_LocalPosition: {x: 1.2679256, y: 0.0063415337, z: -1.409306}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 654081914}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &654081910
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041942}
+  m_LocalRotation: {x: -0.7060095, y: -0.03937789, z: -0.03937789, w: 0.7060095}
+  m_LocalPosition: {x: 0.12537086, y: -0.049034484, z: -1.6419811}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 654081914}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &654081912
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041944}
+  m_LocalRotation: {x: 0.000000005795666, y: 0.6694982, z: -0.0000000052236353, w: 0.74281377}
+  m_LocalPosition: {x: 0.12145845, y: 0.123, z: -1.633725}
+  m_LocalScale: {x: 1, y: 1.565007, z: 2.8011827}
+  m_Children: []
+  m_Father: {fileID: 654081914}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &654081914
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041946}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -109.46355, y: -9.9, z: 136.87062}
+  m_LocalScale: {x: 100, y: 50, z: 110}
+  m_Children:
+  - {fileID: 654081908}
+  - {fileID: 654081910}
+  - {fileID: 654081904}
+  - {fileID: 654081906}
+  - {fileID: 654081916}
+  - {fileID: 654081918}
+  - {fileID: 654081912}
+  m_Father: {fileID: 277239963}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &654081916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041948}
+  m_LocalRotation: {x: -0.49305105, y: 0.5068537, z: 0.5068537, w: 0.49305105}
+  m_LocalPosition: {x: 0.98146856, y: 0.0065834643, z: 1.2402418}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 654081914}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &654081918
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 654041950}
+  m_LocalRotation: {x: 0.000000021825828, y: -0.05226049, z: 0.0000000011421892, w: 0.9986335}
+  m_LocalPosition: {x: 0.12421706, y: -0.10015444, z: -1.6385775}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 654081914}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &654745854
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7519,6 +8227,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (110)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -7769,6 +8482,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -8099,6 +8817,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (55)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8178,6 +8901,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -8382,6 +9110,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -8684,6 +9417,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -9196,6 +9934,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (101)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9358,6 +10101,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9519,6 +10267,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -9800,6 +10553,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -10149,6 +10907,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10224,6 +10987,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 277239963}
     m_Modifications:
+    - target: {fileID: 100000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 3}
       propertyPath: m_LocalPosition.x
       value: -65.76355
@@ -10276,6 +11043,14 @@ PrefabInstance:
       propertyPath: m_ReflectionProbeUsage
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c55afdc4a8a3b4890b07cc7d176510bb, type: 2}
+    - target: {fileID: 3300000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 4300008, guid: ce8d79c79d11b8f9d00076e98d76c639, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9485b0c79d11e2e4d0007da98d76c639, type: 3}
 --- !u!4 &909163992 stripped
@@ -10301,6 +11076,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (104)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -10387,6 +11167,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -10631,7 +11416,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400050, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.015972
+      value: 1.564
       objectReference: {fileID: 0}
     - target: {fileID: 400050, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10682,20 +11467,8 @@ PrefabInstance:
       value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
-      propertyPath: m_Topspeed
-      value: 75
-      objectReference: {fileID: 0}
-    - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
-      propertyPath: m_FullTorqueOverAllWheels
-      value: 1000
-      objectReference: {fileID: 0}
-    - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
       propertyPath: m_SteerHelper
-      value: 0.748
-      objectReference: {fileID: 0}
-    - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
-      propertyPath: m_Downforce
-      value: 120
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
       propertyPath: m_ReverseTorque
@@ -10703,7 +11476,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
       propertyPath: m_MaximumSteerAngle
-      value: 30
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Downforce
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Topspeed
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_FullTorqueOverAllWheels
+      value: 800
       objectReference: {fileID: 0}
     - target: {fileID: 100010, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
       propertyPath: m_TagString
@@ -10749,6 +11534,262 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 6021947067b9d6c4bac8d9e085a71558, type: 2}
+    - target: {fileID: 5400000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Mass
+      value: 1500
+      objectReference: {fileID: 0}
+    - target: {fileID: 5400000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Drag
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400024, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: pitchMultiplier
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400024, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionDistance
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForceAppPointDistance
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 100000
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.targetPosition
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600006, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_Stiffness
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionDistance
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForceAppPointDistance
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 100000
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.targetPosition
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_Stiffness
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionDistance
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForceAppPointDistance
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 100000
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.targetPosition
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_Stiffness
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600004, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionDistance
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForceAppPointDistance
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.spring
+      value: 100000
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.damper
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SuspensionSpring.targetPosition
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_Stiffness
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_Stiffness
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_ForwardFriction.m_AsymptoteValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_ExtremumSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteSlip
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 14600002, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_SidewaysFriction.m_AsymptoteValue
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400020, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: skidParticles
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400018, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: skidParticles
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400016, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: skidParticles
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400014, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: skidParticles
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200010, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Volume
+      value: 0.307
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200012, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Volume
+      value: 0.307
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200014, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Volume
+      value: 0.307
+      objectReference: {fileID: 0}
+    - target: {fileID: 8200016, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
+      propertyPath: m_Volume
+      value: 0.307
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
 --- !u!4 &958959475 stripped
@@ -10829,6 +11870,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -11317,6 +12363,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11390,6 +12441,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -11658,6 +12714,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (102)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -12062,6 +13123,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12135,6 +13201,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -12439,6 +13510,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (85)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12512,6 +13588,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -12768,6 +13849,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -13098,9 +14184,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1273174810}
+  - component: {fileID: 1273174811}
   m_Layer: 0
   m_Name: Lights
-  m_TagString: Untagged
+  m_TagString: LightManager
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13232,6 +14319,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1273174811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1273174809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c3f21e5dc0f4394894357488dd0c960, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  light_prefab: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+    type: 3}
 --- !u!4 &1281418609 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
@@ -13308,6 +14409,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (111)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -13437,6 +14543,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -13586,6 +14697,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -13790,6 +14906,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13951,6 +15072,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -14263,6 +15389,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14325,19 +15456,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19dd6bfd3e96ec54a8c36783f7af2f43, type: 3}
---- !u!1 &1379882159 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100014, guid: 853554035d67ed8458014b199fd7d9d9,
-    type: 3}
-  m_PrefabInstance: {fileID: 653944308}
-  m_PrefabAsset: {fileID: 0}
 --- !u!64 &1379882160
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1379882159}
+  m_GameObject: {fileID: 654041946}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -14356,6 +15481,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -14430,6 +15560,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -14511,6 +15646,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14584,6 +15724,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -14665,6 +15810,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14738,6 +15888,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -15233,6 +16388,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15550,6 +16710,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15787,6 +16952,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15860,6 +17030,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -15935,6 +17110,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16008,6 +17188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -16245,6 +17430,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16307,19 +17497,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19dd6bfd3e96ec54a8c36783f7af2f43, type: 3}
---- !u!1 &1532577928 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100002, guid: 853554035d67ed8458014b199fd7d9d9,
-    type: 3}
-  m_PrefabInstance: {fileID: 653944308}
-  m_PrefabAsset: {fileID: 0}
 --- !u!64 &1532577932
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1532577928}
+  m_GameObject: {fileID: 654041942}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -16433,6 +17617,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16513,6 +17702,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (94)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16575,19 +17769,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19dd6bfd3e96ec54a8c36783f7af2f43, type: 3}
---- !u!1 &1551644208 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100010, guid: 853554035d67ed8458014b199fd7d9d9,
-    type: 3}
-  m_PrefabInstance: {fileID: 653944308}
-  m_PrefabAsset: {fileID: 0}
 --- !u!64 &1551644212
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1551644208}
+  m_GameObject: {fileID: 654041950}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
@@ -16606,6 +17794,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -17011,6 +18204,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17179,6 +18377,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17264,6 +18467,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -17597,6 +18805,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17677,6 +18890,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17750,6 +18968,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -17995,6 +19218,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18063,6 +19291,26 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1657254594}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1694668091 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 9485b0c79d11e2e4d0007da98d76c639,
+    type: 3}
+  m_PrefabInstance: {fileID: 909163991}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1694668092
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1694668091}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 1
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300008, guid: ce8d79c79d11b8f9d00076e98d76c639, type: 3}
 --- !u!1001 &1706628619
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18157,6 +19405,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (105)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18230,6 +19483,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -18305,6 +19563,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (112)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18378,6 +19641,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -18458,6 +19726,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (98)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -18577,6 +19850,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -18785,6 +20063,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -19117,6 +20400,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -19700,6 +20988,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19956,6 +21249,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20041,6 +21339,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -20499,6 +21802,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (106)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20572,6 +21880,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -20827,6 +22140,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20989,6 +22307,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (99)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21063,6 +22386,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21136,6 +22464,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -21569,6 +22902,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21807,6 +23145,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: StreetlightPrefab (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21880,6 +23223,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -22036,6 +23384,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (107)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
@@ -22242,6 +23595,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: StreetlightPrefab (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069864938592477892, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1069864938592583396, guid: 19dd6bfd3e96ec54a8c36783f7af2f43,
         type: 3}
