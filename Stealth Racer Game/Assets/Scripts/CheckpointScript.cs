@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CheckpointScript : MonoBehaviour
 {
-    static int currentCheckpoint = 0;
+    public static int currentCheckpoint = 0;
     public int thisCheckpoint = 1;
     public bool isFinalCheckpoint = false;
     // Start is called before the first frame update
