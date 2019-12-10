@@ -68,12 +68,12 @@ public class LightScript_v2 : MonoBehaviour
             yield return null;
         }
 
-        while (counter < t_charging + 0.5f)
-        {
-            counter += Time.deltaTime;
-            yield return new WaitForSeconds(0.1f);
-            lightRef.enabled = !lightRef.enabled;
-        }
+        //while (counter < t_charging + 0.5f)
+        //{
+        //    counter += Time.deltaTime;
+        //    yield return new WaitForSeconds(0.1f);
+        //    lightRef.enabled = !lightRef.enabled;
+        //}
 
         lightRef.enabled = true;
         //yield return new WaitForSeconds(t_charging);
