@@ -6,23 +6,22 @@ public class LightTriggerScript : MonoBehaviour
 {
     bool isPlayerBusted = false; //whether this light trigger has caught the player this cycle
     public float timePenalty = 5;
-    // Start is called before the first frame update
-    void Start()
+
+    TimerScript timerRef;
+
+    private void Start()
     {
-        
+        if (timerRef == null)
+            timerRef = GameObject.Find("TimeUI").GetComponent<TimerScript>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     // When the player hits this trigger zone
     private void OnTriggerEnter(Collider other)
     {
         if (!isPlayerBusted)
         {
             print("Busted!");
+            StopAllCoroutines();
             TimerScript.timerRef.AddTimePenalty(timePenalty);
             isPlayerBusted = true;
         }

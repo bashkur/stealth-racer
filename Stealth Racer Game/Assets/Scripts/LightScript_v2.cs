@@ -18,22 +18,25 @@ public class LightScript_v2 : MonoBehaviour
     //public bool is_charging;
     //public bool is_inCooldown;
 
-    Light test_light;
+    Light lightRef;
     CapsuleCollider hitbox;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         minIntensity = 0;
         dimIntensity = 5;
         maxIntensity = 25;
 
         gameObject.tag = "OFF";
-        test_light = transform.GetChild(0).GetComponent<Light>();
-        hitbox = transform.GetChild(1).GetComponent<CapsuleCollider>();
+
+        if(lightRef == null)
+            lightRef = transform.GetChild(0).GetComponent<Light>();
+        if(hitbox == null)
+            hitbox = transform.GetChild(1).GetComponent<CapsuleCollider>();
 
         //test_light.enabled = false;
-        hitbox.enabled = false;
+        //hitbox.enabled = false;
     }
 
     // Update is called once per frame
@@ -50,19 +53,19 @@ public class LightScript_v2 : MonoBehaviour
     IEnumerator TurnOn()
     {
         Debug.Log("TURNING ON");
-        test_light.gameObject.SetActive(true);
+        lightRef.gameObject.SetActive(true);
 
 
         float counter = 0;
         float lerpTime = 2;
 
-        float currentIntensity = test_light.intensity;
+        float currentIntensity = lightRef.intensity;
 
         // gradually increase the light intensity to max
         while (counter < lerpTime)
         {
             counter += Time.deltaTime;
-            test_light.intensity = Mathf.Lerp(currentIntensity, maxIntensity, counter / lerpTime);
+            lightRef.intensity = Mathf.Lerp(currentIntensity, maxIntensity, counter / lerpTime);
             yield return null;
         }
 
@@ -76,7 +79,7 @@ public class LightScript_v2 : MonoBehaviour
         Debug.Log("TURNING OFF");
 
         gameObject.tag = "OFF";
-        test_light.gameObject.SetActive(false);
+        lightRef.gameObject.SetActive(false);
         hitbox.gameObject.SetActive(false);
     }
 
@@ -84,14 +87,14 @@ public class LightScript_v2 : MonoBehaviour
     {
         Debug.Log("CHARGING");
         gameObject.tag = "CHARGING";
-        test_light.gameObject.SetActive(true);
+        lightRef.gameObject.SetActive(true);
 
         float counter = 0;
         
         while(counter < t_charging)
         {
             counter += Time.deltaTime;
-            test_light.intensity = Mathf.Lerp(minIntensity, dimIntensity, counter / t_charging);
+            lightRef.intensity = Mathf.Lerp(minIntensity, dimIntensity, counter / t_charging);
             yield return null;
         }
 
@@ -99,10 +102,10 @@ public class LightScript_v2 : MonoBehaviour
         {
             counter += Time.deltaTime;
             yield return new WaitForSeconds(0.1f);
-            test_light.enabled = !test_light.enabled;
+            lightRef.enabled = !lightRef.enabled;
         }
 
-        test_light.enabled = true;
+        lightRef.enabled = true;
         //yield return new WaitForSeconds(t_charging);
         yield return StartCoroutine(TurnOn());
 
@@ -113,7 +116,7 @@ public class LightScript_v2 : MonoBehaviour
         while (true)
         {
             yield return new WaitForSeconds(0.5f);
-            test_light.enabled = !test_light.enabled;
+            lightRef.enabled = !lightRef.enabled;
         }
     }
 
