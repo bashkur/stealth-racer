@@ -24,7 +24,7 @@ public class TimerScript : MonoBehaviour
             timeElapsed += Time.deltaTime;
             if(timeElapsed >= finaltime + 5f)
             {
-                SceneManager.LoadScene(0);
+                SceneManager.LoadScene(1);
             }
             return; //timer is stopped
         }
