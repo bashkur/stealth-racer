@@ -54,7 +54,7 @@ public class LightScript_v2 : MonoBehaviour
 
     IEnumerator Charge()
     {
-        Debug.Log("CHARGING");
+        //Debug.Log("CHARGING");
 
         gameObject.tag = "CHARGING";
         lightRef.gameObject.SetActive(true);
@@ -91,7 +91,7 @@ public class LightScript_v2 : MonoBehaviour
 
     IEnumerator TurnOn()
     {
-        Debug.Log("TURNING ON");
+        //Debug.Log("TURNING ON");
         lightRef.gameObject.SetActive(true);
 
 
@@ -115,7 +115,7 @@ public class LightScript_v2 : MonoBehaviour
         // keep the light on for t_on seconds
         yield return new WaitForSeconds(t_on);
 
-        Debug.Log("TURNING OFF");
+        //Debug.Log("TURNING OFF");
 
         LightManager.selectedLights.Remove(this.gameObject);
         LightManager.offLights.Add(this.gameObject);
