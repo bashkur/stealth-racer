@@ -14,12 +14,12 @@ public class LightScript_v2 : MonoBehaviour
     float dimIntensity;
     float maxIntensity;
 
-
     //public bool is_charging;
     //public bool is_inCooldown;
 
     Light lightRef;
     CapsuleCollider hitbox;
+    //LightManager lightManager;
 
     // Start is called before the first frame update
     void Awake()
@@ -34,6 +34,8 @@ public class LightScript_v2 : MonoBehaviour
             lightRef = transform.GetChild(0).GetComponent<Light>();
         if(hitbox == null)
             hitbox = transform.GetChild(1).GetComponent<CapsuleCollider>();
+        //if (lightManager == null)
+        //    lightManager = transform.GetComponentInParent<LightManager>();
 
         //test_light.enabled = false;
         //hitbox.enabled = false;
@@ -48,6 +50,43 @@ public class LightScript_v2 : MonoBehaviour
     public void Flip()
     {
         StartCoroutine(Charge());
+    }
+
+    IEnumerator Charge()
+    {
+        Debug.Log("CHARGING");
+
+        gameObject.tag = "CHARGING";
+        lightRef.gameObject.SetActive(true);
+
+        float counter = 0;
+
+        while (counter < t_charging)
+        {
+            counter += Time.deltaTime;
+            lightRef.intensity = Mathf.Lerp(minIntensity, dimIntensity, counter / t_charging);
+            yield return null;
+        }
+
+        while (counter < t_charging + 0.5f)
+        {
+            counter += Time.deltaTime;
+            yield return new WaitForSeconds(0.1f);
+            lightRef.enabled = !lightRef.enabled;
+        }
+
+        lightRef.enabled = true;
+        //yield return new WaitForSeconds(t_charging);
+        yield return StartCoroutine(TurnOn());
+    }
+
+    IEnumerator Flashing()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(0.5f);
+            lightRef.enabled = !lightRef.enabled;
+        }
     }
 
     IEnumerator TurnOn()
@@ -78,47 +117,12 @@ public class LightScript_v2 : MonoBehaviour
 
         Debug.Log("TURNING OFF");
 
+        LightManager.selectedLights.Remove(this.gameObject);
+        LightManager.offLights.Add(this.gameObject);
+
         gameObject.tag = "OFF";
         lightRef.gameObject.SetActive(false);
         hitbox.gameObject.SetActive(false);
     }
-
-    IEnumerator Charge()
-    {
-        Debug.Log("CHARGING");
-        gameObject.tag = "CHARGING";
-        lightRef.gameObject.SetActive(true);
-
-        float counter = 0;
-        
-        while(counter < t_charging)
-        {
-            counter += Time.deltaTime;
-            lightRef.intensity = Mathf.Lerp(minIntensity, dimIntensity, counter / t_charging);
-            yield return null;
-        }
-
-        while(counter < t_charging + 0.5f)
-        {
-            counter += Time.deltaTime;
-            yield return new WaitForSeconds(0.1f);
-            lightRef.enabled = !lightRef.enabled;
-        }
-
-        lightRef.enabled = true;
-        //yield return new WaitForSeconds(t_charging);
-        yield return StartCoroutine(TurnOn());
-
-    }
-
-    IEnumerator Flashing()
-    {
-        while (true)
-        {
-            yield return new WaitForSeconds(0.5f);
-            lightRef.enabled = !lightRef.enabled;
-        }
-    }
-
 
 }

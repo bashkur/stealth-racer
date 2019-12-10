@@ -63,13 +63,9 @@ public class MusicManager : MonoBehaviour
 
         //sync lights with the beat
         // songPositionInBeats % beat interval
-        if (Mathf.FloorToInt(songPositionInBeats) % 4 == 0)
+        if (Mathf.FloorToInt(songPositionInBeats) % 10 == 0)
         {
-            //int numToSwitch = 0;
-            //while(numToSwitch < 50)
-            //{
-            //    lightManager.FlipLights();
-            //}
+            lightManager.StartTheLights(2);
         }
     }
 }
