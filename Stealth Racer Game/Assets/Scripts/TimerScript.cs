@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TimerScript : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class TimerScript : MonoBehaviour
     public static TimerScript timerRef;
     float timeElapsed = 0;
     bool isStopped = false;
+    float finaltime = 0;
     void Start()
     {
         timerRef = this;
@@ -17,7 +19,15 @@ public class TimerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (isStopped) return; //timer is stopped
+        if (isStopped)
+        {
+            timeElapsed += Time.deltaTime;
+            if(timeElapsed >= finaltime + 5f)
+            {
+                SceneManager.LoadScene(1);
+            }
+            return; //timer is stopped
+        }
         //update time elapsed
         timeElapsed += Time.deltaTime;
         //update timer text
@@ -37,6 +47,7 @@ public class TimerScript : MonoBehaviour
 
     public void EndGame()
     {
+        finaltime = timeElapsed;
         isStopped = true;
     }
 }
